@@ -1,4 +1,4 @@
-# ReAPI-Knife-Speede
+# ReAPI-Knife-Speed
 
 A new Re-API Knife Speed plugin.
 - Credits:
