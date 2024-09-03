@@ -10,4 +10,4 @@ A new Re-API Knife Speed plugin.
 # UPDATED - [09/03/2024]
 
 - Added support with freeze time.
-- Now you can enable or disable whether you would like it to work in coordination with freeze time or not.
+- Now you can enable or disable inside config file whether you would like it to work in coordination with freeze time or not.
