@@ -4,6 +4,10 @@ A new Re-API Knife Speed plugin.
 - Credits:
         HueHue @ AMXX-BG
 
+# REQUIREMENTS
+
+-  ReAPI(ReGameDLL) [Download latest version from dev-cs]
+
 # INFORMATION:
 - You can change the knife speed in the config setting file.
 
